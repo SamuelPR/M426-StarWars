@@ -26,7 +26,6 @@
 .liens
 {
     float: right;
-    color: yellow;
     padding: 13px;
     border: solid 1px grey;
     display: block;
@@ -36,5 +35,7 @@
     display: block;
     height: 100%;
     width: 100%;
+    color: yellow;
+    text-decoration: none;
 }
 
